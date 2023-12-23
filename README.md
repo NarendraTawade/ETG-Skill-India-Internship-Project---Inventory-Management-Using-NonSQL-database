@@ -24,14 +24,15 @@ I have written a basic Inventory Management System code under the guidance of th
 
 -> ETG internship part 2 -- this file includes code for purchasing, bill generation, updation of records and recording sales.
 
-# About me --
-
--> My name is Narendra Sahebrao Tawade
-
--> I have completed my BE in Mechanical Engineering
-
 # Profiles --
 
 -> LinkedIn -
-    
-     https://www.linkedin.com/in/narendra-tawade-6a7013157
+
+    [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/narendra-tawade-6a7013157)
+
+# You can view the work using following link
+
+    [![Visit My Website](https://img.shields.io/badge/Click%20Me!-blue)](https://colab.research.google.com/drive/1_oJGtX32r-uP3tsbdtlvot2E-S5__mv4?usp=sharing)
+
+
+

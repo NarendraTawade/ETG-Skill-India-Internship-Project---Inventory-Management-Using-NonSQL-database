@@ -27,6 +27,7 @@ I have written a basic Inventory Management System code under the guidance of th
 # Profiles --
 
 -> LinkedIn - 
+
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/narendra-tawade-6a7013157)
 
 # You can view the work using following link
